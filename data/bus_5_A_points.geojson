@@ -6,7 +6,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pasar�ti t�r",
+        "name": "Pasaréti tér",
         "lat": 47.5236781,
         "long": 18.9942618
       },
@@ -15,7 +15,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harangvir�g utca",
+        "name": "Harangvirág utca",
         "lat": 47.5218293,
         "long": 18.9975348
       },
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vir�g �rok",
+        "name": "Virág árok",
         "lat": 47.5192107,
         "long": 19.0009785
       },
@@ -33,7 +33,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "G�bor �ron utca / Pasar�ti �t",
+        "name": "Gábor Áron utca / Pasaréti út",
         "lat": 47.5162207,
         "long": 19.004509
       },
@@ -42,7 +42,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "J�lia utca",
+        "name": "Júlia utca",
         "lat": 47.5142772,
         "long": 19.0072214
       },
@@ -51,7 +51,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vasas sportp�lya",
+        "name": "Vasas sportpálya",
         "lat": 47.5120167,
         "long": 19.0083681
       },
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "V�rosmajor",
+        "name": "Városmajor",
         "lat": 47.5096189,
         "long": 19.0139853
       },
@@ -69,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ny�l utca",
+        "name": "Nyúl utca",
         "lat": 47.5090547,
         "long": 19.0170365
       },
@@ -78,7 +78,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sz�ll K�lm�n t�r M (Csaba utca)",
+        "name": "Széll Kálmán tér M (Csaba utca)",
         "lat": 47.5067348,
         "long": 19.0228102
       },
@@ -87,7 +87,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "K�rm�ci utca",
+        "name": "Körmöci utca",
         "lat": 47.5044116,
         "long": 19.0250026
       },
@@ -96,7 +96,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Korl�t utca",
+        "name": "Korlát utca",
         "lat": 47.5019735,
         "long": 19.0273819
       },
@@ -105,7 +105,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mik� utca",
+        "name": "Mikó utca",
         "lat": 47.4992779,
         "long": 19.0308237
       },
@@ -114,7 +114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Alag�t utca",
+        "name": "Alagút utca",
         "lat": 47.4979067,
         "long": 19.0329337
       },
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "D�zsa Gy�rgy t�r",
+        "name": "Dózsa György tér",
         "lat": 47.4944583,
         "long": 19.0379314
       },
@@ -132,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "D�brentei t�r",
+        "name": "Döbrentei tér",
         "lat": 47.4925446,
         "long": 19.0423365
       },
@@ -141,7 +141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "M�rcius 15. t�r",
+        "name": "Március 15. tér",
         "lat": 47.4918997,
         "long": 19.0517359
       },
@@ -168,7 +168,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ur�nia",
+        "name": "Uránia",
         "lat": 47.4957101,
         "long": 19.0650293
       },
@@ -177,7 +177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blaha Lujza t�r M",
+        "name": "Blaha Lujza tér M",
         "lat": 47.4974996,
         "long": 19.0713435
       },
@@ -186,7 +186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Husz�r utca",
+        "name": "Huszár utca",
         "lat": 47.4991937,
         "long": 19.0778192
       },
@@ -195,7 +195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Keleti p�lyaudvar M",
+        "name": "Keleti pályaudvar M",
         "lat": 47.5004213,
         "long": 19.081228
       },
@@ -213,7 +213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ch�z�r Andr�s utca",
+        "name": "Cházár András utca",
         "lat": 47.5059125,
         "long": 19.0913067     },
       "geometry": { "type": "Point", "coordinates": [19.0913067, 47.5059125] }
@@ -221,7 +221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stef�nia �t / Th�k�ly �t",
+        "name": "Stefánia út / Thököly út",
         "lat": 47.5081116,
         "long": 19.0942312     },
       "geometry": { "type": "Point", "coordinates": [19.0942312, 47.5081116] }
@@ -229,7 +229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zugl� vas�t�llom�s",
+        "name": "Zugló vasútállomás",
         "lat": 47.511744,
         "long": 19.0991493     },
       "geometry": { "type": "Point", "coordinates": [19.0991493, 47.511744] }
@@ -245,7 +245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erzs�bet kir�lyn� �tja, alulj�r�",
+        "name": "Erzsébet királyné útja, aluljáró",
         "lat": 47.5169031,
         "long": 19.0939646     },
       "geometry": { "type": "Point", "coordinates": [19.0939646, 47.5169031] }
@@ -261,7 +261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagy Lajos kir�ly �tja / Czobor utca",
+        "name": "Nagy Lajos király útja / Czobor utca",
         "lat": 47.5228145,
         "long": 19.1019661     },
       "geometry": { "type": "Point", "coordinates": [19.1019661, 47.5228145] }
@@ -269,7 +269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "F?r�sz utca",
+        "name": "Fűrész utca",
         "lat": 47.5262494,
         "long": 19.1050051     },
       "geometry": { "type": "Point", "coordinates": [19.1050051, 47.5262494] }
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "R�kospatak utca",
+        "name": "Rákospatak utca",
         "lat": 47.5292222,
         "long": 19.1075628     },
       "geometry": { "type": "Point", "coordinates": [19.1075628, 47.5292222] }
@@ -293,7 +293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "�v utca",
+        "name": "Öv utca",
         "lat": 47.5347416,
         "long": 19.1127287     },
       "geometry": { "type": "Point", "coordinates": [19.1127287, 47.5347416] }
@@ -301,7 +301,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "T�th Istv�n utca",
+        "name": "Tóth István utca",
         "lat": 47.5382964,
         "long": 19.1170033    },
       "geometry": { "type": "Point", "coordinates": [19.1170033, 47.5382964] }
@@ -309,7 +309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "V�g utca",
+        "name": "Vág utca",
         "lat": 47.5400127,
         "long": 19.1192756    },
       "geometry": { "type": "Point", "coordinates": [19.1192756, 47.5400127] }
@@ -317,7 +317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Op�l utca",
+        "name": "Opál utca",
         "lat": 47.5420712,
         "long": 19.1171293    },
       "geometry": { "type": "Point", "coordinates": [19.1171293, 47.5420712] }
@@ -325,7 +325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sz�chenyi �t",
+        "name": "Széchenyi út",
         "lat": 47.545145,
         "long": 19.1124487    },
       "geometry": { "type": "Point", "coordinates": [19.1124487, 47.545145] }
@@ -333,7 +333,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Szent Korona �tja",
+        "name": "Szent Korona útja",
         "lat": 47.547825,
         "long": 19.1150634    },
       "geometry": { "type": "Point", "coordinates": [19.1150634, 47.547825] }
@@ -341,7 +341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wessel�nyi utca",
+        "name": "Wesselényi utca",
         "lat": 47.5498647,
         "long": 19.1168679    },
       "geometry": { "type": "Point", "coordinates": [19.1168679, 47.5498647] }
@@ -357,7 +357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "R�kos �ti szakrendel?",
+        "name": "Rákos úti szakrendel?",
         "lat": 47.5546628,
         "long": 19.1189366    },
       "geometry": { "type": "Point", "coordinates": [19.1189366, 47.5546628] }
@@ -365,7 +365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Illy�s Gyula utca",
+        "name": "Illyés Gyula utca",
         "lat": 47.5586756,
         "long": 19.120683    },
       "geometry": { "type": "Point", "coordinates": [19.120683, 47.5586756] }
@@ -389,7 +389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kossuth utca, lak�telep",
+        "name": "Kossuth utca, lakótelep",
         "lat": 47.565612,
         "long": 19.1298251    },
       "geometry": { "type": "Point", "coordinates": [19.1298251, 47.565612] }
@@ -397,7 +397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "R�kospalota, Kossuth utca",
+        "name": "Rákospalota, Kossuth utca",
         "lat": 47.5676495,
         "long": 19.1271556    },
       "geometry": { "type": "Point", "coordinates": [19.1271556, 47.5676495] }
