@@ -357,7 +357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rákos úti szakrendel?",
+        "name": "Rákos úti szakrendelő",
         "lat": 47.5546628,
         "long": 19.1189366    },
       "geometry": { "type": "Point", "coordinates": [19.1189366, 47.5546628] }
